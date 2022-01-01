@@ -1,0 +1,2 @@
+This is chapter6 from the new branch1
+Hello github
